@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Satoshi";
+  src: url("./src/fonts/Satoshi-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./src/fonts/Satoshi-Regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}

@@ -1,0 +1,32 @@
+export type iconName =
+  | "ic_baseline-star"
+  | "ph_arrow-down-left-light"
+  | "ph_arrow-down-light"
+  | "ph_arrow-down-right-light"
+  | "ph_arrow-elbow-right-up-light"
+  | "ph_arrow-left-light"
+  | "ph_arrow-right-light"
+  | "ph_arrow-up-left-light"
+  | "ph_arrow-up-light"
+  | "ph_arrow-up-right-light"
+  | "ph_behance-logo-light"
+  | "ph_caret-down-light"
+  | "ph_check-light"
+  | "ph_dribbble-logo-light"
+  | "ph_envelope-simple-light"
+  | "ph_facebook-logo-light"
+  | "ph_grains-slash-light"
+  | "ph_instagram-logo-light"
+  | "ph_leaf-light"
+  | "ph_minus-light"
+  | "ph_phone-light"
+  | "ph_plus-light"
+  | "ph_shopping-cart-light"
+  | "ph_twitter-logo-light";
+
+export type variant =
+  | "smallDefault"
+  | "smallPrimary"
+  | "defaultPrimary"
+  | "smallMuted"
+  | "defaultMuted";
